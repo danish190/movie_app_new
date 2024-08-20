@@ -1,6 +1,28 @@
 # movie_list_app
 
-A new Flutter project.
+Flutter project version 3.16.4.
+Screens:
+  - Movie list screen
+  - add movie list screen
+
+Model:
+  - Movie model
+
+Controller:
+  - Movie Controller
+
+State Management:
+  - Getx Controller
+
+local Storage:
+   - use hive 
+
+Testing: 
+
+ - only model movie unit test is pass
+ - Test widget add movies is not working rest all is good. 
+
+
 
 ## Getting Started
 
